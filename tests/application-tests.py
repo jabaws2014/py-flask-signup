@@ -19,7 +19,7 @@ import unittest
 from application import application
 from flask import Flask, current_app, request, Response
 
-""" Main test cases for our application """
+""" Main test cases for our application! """
 class AppTestCase(unittest.TestCase):
 
     #application = Flask(__name__)
